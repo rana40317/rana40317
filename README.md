@@ -1,5 +1,6 @@
 ## <p align="Center">Hi, I'm Sayantan Kar</p>
-[(https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=DevOps+Engineer;Cloud+Learner;Linux+Enthusiast)](https://git.io/typing-svg)
+<hr>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=DevOps+Engineer;Cloud+Learner;Linux+Enthusiast)](https://git.io/typing-svg)
 <!--
 **rana40317/rana40317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -81,3 +82,4 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 ![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
