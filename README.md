@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 - Bash
 - HTML / CSS
 
-### ⚙️ DevOps & Cloud
+<p align="center"> ### ⚙️ DevOps & Cloud
 - Linux
 - Git & GitHub
 - Docker
 - Kubernetes
 - AWS
-- CI/CD
+- CI/CD</p>
 
 ### 📊 Tools
 - Power BI
