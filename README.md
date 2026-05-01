@@ -64,12 +64,6 @@ Here are some ideas to get you started:
 
 ---
 
-## 📈 GitHub Stats
-
-https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact
-
 ---
 
 ## 🔥 Currently Learning
@@ -83,3 +77,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&lay
 ## 🤝 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/sayantankar/
 - Email: sayantankar1@gmail.com
+
+![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
