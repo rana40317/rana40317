@@ -1,5 +1,4 @@
-## <p align="Center">Hi, I'm Sayantan Kar</p>
-<hr>
+## <p align="Center">Hi, I'm Sayantan Kar</p
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=DevOps+Engineer;Cloud+Learner;Linux+Enthusiast)](https://git.io/typing-svg)
 <!--
 **rana40317/rana40317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
