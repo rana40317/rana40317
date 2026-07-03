@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 - CI/CD
 
 ###  Tools
-- Power BI
 - VS Code
 - Jenkins
 
