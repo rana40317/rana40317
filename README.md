@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 - Linux
 - Git & GitHub
 - Docker
-- Kubernetes
-- AWS
 - CI/CD
 
 ###  Tools
