@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--<h3 align="center">Aspiring DevOps Engineer | Cloud | Linux | GenAI Enthusiast</h3>-->
+<!--<h3 align="center">Aspiring DevOps Engineer | Cloud | Linux </h3>-->
 
 ---
 
@@ -22,19 +22,17 @@ Here are some ideas to get you started:
 - 🌱 Currently learning **DevOps & Cloud Engineering**
 - 💻 Building real-world Linux & Cloud projects
 - ☁️ Exploring AWS, Docker, Kubernetes
-- 📊 Interested in Data Science + GenAI
-- 🎯 Goal: Become Industry Ready DevOps Engineer
+- 🎯 Goal: Become an Industry-Ready DevOps Engineer
 
----
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Programming
+###  Programming
 - Python
 - Bash
 - HTML / CSS
 
-### ⚙️ DevOps & Cloud
+###  DevOps & Cloud
 - Linux
 - Git & GitHub
 - Docker
@@ -42,43 +40,29 @@ Here are some ideas to get you started:
 - AWS
 - CI/CD
 
-### 📊 Tools
+###  Tools
 - Power BI
 - VS Code
 - Jenkins
 
----
-
 ## 📌 Featured Projects
 
-🔹 **Linux Monitoring System**
-- Server monitoring using Bash scripting
-- Automated alerts
+## End to End Automated Linux Backup and Recovery System | Docker | Rsync | CI/CD
+- Developed an Automated Linux Backup and Recovery System using Bash scripting and GitHub Actions, streamlining backup, recovery, logging, and CI/CD automation.
+- Developed a reliable, automated backup solution that strengthened Linux administration, Bash scripting, and DevOps automation skills.
+- Improved data protection, operational efficiency, and system reliability by automating backup, recovery, and logging.
 
-🔹 **Cloud Web App Deployment**
-- Deployed HTML app on AWS EC2
-- Nginx configuration
+## Linux Server Monitoring and Alerting System | Cron Jobs | GitHub
+- Designed a Linux Monitoring and Alerting System using Bash to monitor system resources and trigger real-time alerts proactively.
+- Improved system availability, proactive issue detection, and operational efficiency through automated monitoring and real-time alerts.
+- Supports proactive infrastructure monitoring, real-time incident detection, and high system availability through automated health checks and alerts.
 
-🔹 **CI/CD Pipeline Project**
-- Automated build & deployment using Jenkins
-
----
-
----
-
-## 🔥 Currently Learning
+## Currently Learning
 - Kubernetes
 - Terraform
 - Advanced Linux
 - Cloud Automation
 
----
-
-## 🤝 Connect With Me
+## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/sayantankar/
 - Email: sayantankar1@gmail.com
-
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazonaws)
-![Docker](https://img.shields.io/badge/Docker-blue?logo=docker)
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
