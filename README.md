@@ -19,13 +19,9 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 About Me
-- 🌱 Currently learning **DevOps & Cloud Engineering**
 - 💻 Building real-world Linux & Cloud projects
 - ☁️ Exploring AWS, Docker, Kubernetes
 - 🎯 Goal: Become an Industry-Ready DevOps Engineer
-
-
-##  Tech Stack
 
 ###  Programming
 - Python
